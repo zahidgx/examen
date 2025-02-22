@@ -8,9 +8,9 @@ export const UsersList = ({ users = [] }) => {
         <thead>
           <tr>
             <th>ID</th>
-            <th>Name</th>
-            <th>First_Name</th>
-            <th>Email</th>
+            <th>NOMBREEEEEEEE FEKA</th>
+            <th>APPELLIDO</th>
+            <th>CORREOOO</th>
           </tr>
         </thead>
         <tbody>
